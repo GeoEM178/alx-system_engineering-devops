@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "((WATER=(convert_base WATER water 10) + $(convert_base STIR stir 10)) | convert_base 10 bestchol)"
+echo $((water + stir))
