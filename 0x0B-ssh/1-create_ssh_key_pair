@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Create RSA keys with name school, bits 4096, passphrase betty
+
+shh-keygen -t rsa -b 4096 -f school -N betty
