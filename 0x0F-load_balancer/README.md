@@ -1,1 +1,1 @@
-Load balancing
+web server with LB
